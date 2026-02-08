@@ -16,7 +16,7 @@ I am a 2025 Bachelor of Engineering graduate from SVIT, Vasad, with approx one y
 
 <div align="left">
 
-- 🌱 I'm currently learning **I'm currently enhancing my skills in databases, SQL, and Python, while also exploring cloud computing with Azure and aws . In addition, I'm learning  more and experience in  data visualization and analytics using Power BI and Tableau, and database management and integration using SSMS and SSIS(basic). Excited to apply these skills in real-world projects and continue growing in the data and automation space.**
+- 🌱  **I'm currently enhancing my skills in databases, SQL, and Python, while also exploring cloud computing with Azure and aws . In addition, I'm learning  more and experience in  data visualization and analytics using Power BI and Tableau, and database management and integration using SSMS and SSIS(basic). Excited to apply these skills in real-world projects and continue growing in the data and automation space.**
 
 </div>
 
